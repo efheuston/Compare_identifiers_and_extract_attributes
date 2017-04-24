@@ -3,7 +3,7 @@
 _Usage: ID_file.txt Attribute_file.txt > Output_file.txt_    
 __Example: sh Pull_Identifiers.sh ID_file.txt Attribute_file.txt > Output_file.txt__
 
-Compare a list of IDs against an file containing annotations and extract the relevant annotations.  
+Compare a list of IDs against a file containing annotations and extract the relevant annotations.  
 This script will extract any line in which the identifier occurs, regardless of the column.  
 
 
